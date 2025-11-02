@@ -1,0 +1,18 @@
+{
+  "where is lecturing hall a": {
+      "variants": [
+          "what is the location of lecturing hall a",
+          "where is lecturing hall a located",
+          "how do i reach lecturing hall a"
+      ],
+      "answer": "Lecturing hall A is located in the main campus, Building 1, first floor."
+  },
+  "where is lecturing hall b": {
+      "variants": [
+          "what is the location of lecturing hall b",
+          "where is lecturing hall b located",
+          "how do i reach lecturing hall b"
+      ],
+      "answer": "Lecturing hall B is located in the engineering building, second floor."
+  }
+}

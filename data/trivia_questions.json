@@ -1,0 +1,104 @@
+{
+  "questions": [
+    {
+      "question": "Which programming language is known for its use in web development and is often used on the client side?",
+      "options": ["Python", "JavaScript", "Java", "C++"],
+      "answer": "JavaScript"
+    },
+    {
+      "question": "What does CPU stand for?",
+      "options": ["Central Processing Unit", "Computer Processing Unit", "Central Process Unit", "Computer Process Unit"],
+      "answer": "Central Processing Unit"
+    },
+    {
+      "question": "Which protocol is used to securely transfer files over a network?",
+      "options": ["HTTP", "FTP", "SFTP", "SMTP"],
+      "answer": "SFTP"
+    },
+    {
+      "question": "What is the primary purpose of an operating system?",
+      "options": ["Manage hardware resources", "Run applications", "Provide user interface", "All of the above"],
+      "answer": "All of the above"
+    },
+    {
+      "question": "Which of the following is NOT a type of database?",
+      "options": ["Relational", "NoSQL", "Graph", "Linear"],
+      "answer": "Linear"
+    },
+    {
+      "question": "What is the main function of a firewall?",
+      "options": ["Monitor network traffic", "Block unauthorized access", "Encrypt data", "All of the above"],
+      "answer": "Block unauthorized access"
+    },
+    {
+      "question": "Which language is commonly used for artificial intelligence and machine learning?",
+      "options": ["Python", "Java", "C#", "Ruby"],
+      "answer": "Python"
+    },
+    {
+      "question": "What does HTML stand for?",
+      "options": ["HyperText Markup Language", "High-Level Text Language", "Hyperlink and Text Markup Language", "Home Tool Markup Language"],
+      "answer": "HyperText Markup Language"
+    },
+    {
+      "question": "Which of the following is a version control system?",
+      "options": ["Git", "Docker", "Kubernetes", "Jenkins"],
+      "answer": "Git"
+    },
+    {
+      "question": "What is the primary purpose of a VPN?",
+      "options": ["Increase internet speed", "Encrypt internet traffic", "Block ads", "Monitor network activity"],
+      "answer": "Encrypt internet traffic"
+    },
+    {
+      "question": "Which of the following is a cloud computing service provider?",
+      "options": ["AWS", "GitHub", "Docker", "Jenkins"],
+      "answer": "AWS"
+    },
+    {
+      "question": "What is the main purpose of a compiler?",
+      "options": ["Execute code", "Translate high-level code to machine code", "Debug code", "Optimize code"],
+      "answer": "Translate high-level code to machine code"
+    },
+    {
+      "question": "Which of the following is a popular framework for building web applications in Python?",
+      "options": ["Django", "Flask", "React", "Angular"],
+      "answer": "Django"
+    },
+    {
+      "question": "What is the primary function of a DNS server?",
+      "options": ["Store website data", "Translate domain names to IP addresses", "Encrypt data", "Manage network traffic"],
+      "answer": "Translate domain names to IP addresses"
+    },
+    {
+      "question": "Which of the following is a type of cyber attack?",
+      "options": ["Phishing", "Firewall", "Encryption", "Virtualization"],
+      "answer": "Phishing"
+    },
+    {
+      "question": "What is the purpose of a CAPTCHA?",
+      "options": ["Encrypt data", "Prevent automated bots", "Increase website speed", "Block ads"],
+      "answer": "Prevent automated bots"
+    },
+    {
+      "question": "Which of the following is a popular programming language for mobile app development?",
+      "options": ["Swift", "Python", "Ruby", "PHP"],
+      "answer": "Swift"
+    },
+    {
+      "question": "What is the main purpose of a blockchain?",
+      "options": ["Store data securely", "Increase internet speed", "Encrypt emails", "Manage network traffic"],
+      "answer": "Store data securely"
+    },
+    {
+      "question": "Which of the following is a popular tool for containerization?",
+      "options": ["Docker", "Kubernetes", "Jenkins", "Git"],
+      "answer": "Docker"
+    },
+    {
+      "question": "What is the primary purpose of an API?",
+      "options": ["Store data", "Provide a way for software components to communicate", "Encrypt data", "Manage network traffic"],
+      "answer": "Provide a way for software components to communicate"
+    }
+  ]
+}

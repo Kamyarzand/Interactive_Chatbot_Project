@@ -1,0 +1,142 @@
+{
+    "python": [
+        "What is Python programming?",
+        "Why is Python so popular?",
+        "How to start learning Python?",
+        "What are Python libraries for data analysis?",
+        "What is Python's role in machine learning?"
+    ],
+    "ai": [
+        "What is artificial intelligence?",
+        "How does AI impact daily life?",
+        "What are the ethical concerns of AI?",
+        "What is the difference between AI and machine learning?",
+        "How is AI used in healthcare?"
+    ],
+    "health": [
+        "What is a balanced diet?",
+        "How much water should I drink daily?",
+        "What are the benefits of regular exercise?",
+        "What are signs of a healthy lifestyle?",
+        "What are tips for improving mental health?"
+    ],
+    "fitness": [
+        "How to start a fitness routine?",
+        "What are the benefits of yoga?",
+        "How to build muscle effectively?",
+        "What is the best exercise for weight loss?",
+        "How to stay motivated for fitness?"
+    ],
+    "technology": [
+        "What is blockchain technology?",
+        "How does the Internet of Things (IoT) work?",
+        "What are advancements in renewable energy technology?",
+        "What is the future of autonomous vehicles?",
+        "How has technology improved education?"
+    ],
+    "history": [
+        "What caused World War II?",
+        "Who were the key figures in the Renaissance?",
+        "What is the history of the Great Wall of China?",
+        "How did the Industrial Revolution change society?",
+        "What is the significance of the American Civil War?"
+    ],
+    "science": [
+        "What is the theory of relativity?",
+        "How do black holes form?",
+        "What are the laws of thermodynamics?",
+        "How does evolution work?",
+        "What are the benefits of studying space?"
+    ],
+    "space": [
+        "What is a supernova?",
+        "How many planets are in the solar system?",
+        "What is the role of the International Space Station?",
+        "What are recent discoveries in astronomy?",
+        "How do telescopes work?"
+    ],
+    "education": [
+        "What is the importance of education?",
+        "How to choose the best school for children?",
+        "What are effective study methods?",
+        "How does online learning compare to traditional learning?",
+        "What is the future of education?"
+    ],
+    "career": [
+        "How to write a strong resume?",
+        "What are tips for a successful job interview?",
+        "How to switch careers effectively?",
+        "What are the most in-demand skills for 2024?",
+        "How to ask for a salary raise?"
+    ],
+    "environment": [
+        "What are the causes of climate change?",
+        "How to reduce your carbon footprint?",
+        "What are the benefits of renewable energy?",
+        "What is the importance of biodiversity?",
+        "How to recycle effectively?"
+    ],
+    "sports": [
+        "What are the rules of soccer?",
+        "How to improve basketball skills?",
+        "What are the most popular Olympic sports?",
+        "How to prevent sports injuries?",
+        "What is the history of cricket?"
+    ],
+    "travel": [
+        "What are the best destinations in Europe?",
+        "How to travel on a budget?",
+        "What are the essentials for packing?",
+        "What is the best time to visit Japan?",
+        "How to plan a road trip?"
+    ],
+    "cooking": [
+        "What are easy recipes for beginners?",
+        "How to bake a perfect cake?",
+        "What are common spices in Indian cuisine?",
+        "How to cook healthy meals?",
+        "What are tips for meal prepping?"
+    ],
+    "finance": [
+        "What is a personal budget?",
+        "How to save money effectively?",
+        "What are tips for investing in stocks?",
+        "What is the difference between credit and debit cards?",
+        "How to plan for retirement?"
+    ],
+    "movies": [
+        "What are the best movies of all time?",
+        "Who won the Oscar for Best Picture in 2023?",
+        "What is the role of a director in filmmaking?",
+        "What are the genres of cinema?",
+        "How to write a movie review?"
+    ],
+    "books": [
+        "What are must-read novels?",
+        "How to start a book club?",
+        "What are benefits of reading daily?",
+        "What are tips for writing a book?",
+        "What are famous works of Shakespeare?"
+    ],
+    "animals": [
+        "What are endangered species?",
+        "How do animals adapt to their environment?",
+        "What is the largest animal in the world?",
+        "How to take care of a pet?",
+        "What are the habitats of polar bears?"
+    ],
+    "relationships": [
+        "How to improve communication in relationships?",
+        "What are the signs of a healthy friendship?",
+        "How to handle conflicts in relationships?",
+        "What are tips for maintaining long-distance relationships?",
+        "What is the importance of empathy in relationships?"
+    ],
+    "psychology": [
+        "What is cognitive behavioral therapy?",
+        "How does stress affect the brain?",
+        "What are the stages of human development?",
+        "How to manage anxiety effectively?",
+        "What is the role of a psychologist?"
+    ]
+}

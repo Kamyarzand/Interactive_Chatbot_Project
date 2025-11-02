@@ -1,0 +1,26 @@
+{
+    "CS_LAB": {
+        "name": "Computer Science Lab",
+        "type": "laboratory",
+        "working_hours": {
+            "start": "08:00",
+            "end": "18:00"
+        }
+    },
+    "MAIN_HALL": {
+        "name": "Main Conference Hall",
+        "type": "hall",
+        "working_hours": {
+            "start": "09:00",
+            "end": "17:00"
+        }
+    },
+    "CLASSROOM_101": {
+        "name": "Classroom 101",
+        "type": "classroom",
+        "working_hours": {
+            "start": "08:30",
+            "end": "16:30"
+        }
+    }
+}
